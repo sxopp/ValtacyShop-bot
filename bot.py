@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 TOKEN = os.getenv("BOT_TOKEN")
 
 # Your GCash details
-GCASH_NUMBER = "09XXXXXXXXX"
-GCASH_NAME = "Your Name"
+GCASH_NUMBER = "09654050564"
+GCASH_NAME = "RE****D Y."
 
 # Simple key stock
 KEYS = ["ABC123", "XYZ456", "JKL789"]  # replace with your keys
